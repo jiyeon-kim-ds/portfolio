@@ -52,3 +52,18 @@
 - Surprise 라이브러리를 사용한 군집화
 - 데이터의 전처리와 특성공학
 - 성과 : 여러 출처의 데이터를 병합, 영어 텍스트 데이터의 전처리와 임베딩(embedding), 머신러닝 모델 설계 등을 해볼 수 있었다.
+
+# flask와 Spotify API를 이용한 음악 취향 예측 웹 어플리케이션 만들기
+
+2020.12 ~ 2020.12 / 개인 프로젝트 /  [Github Link](https://github.com/jiyeon-kim-ds/music-tastes-web-app) / [web app link](https://dsft-spotify-app.herokuapp.com/)
+
+요약
+
+- flask와 SQLite을 사용하여 Spotify의 데이터를 불러와 음악 취향을 예측해주는 웹 어플리케이션을 만들어 본다.
+
+### 주요 업무
+
+​	[flask, SQLite, SQLAlchemy, Spotify API, pandas]
+
+- flask와 SQLite를 사용하여 웹 어플리케이션의 CRUD 기능 구현 및 리모트 데이터 베이스 관리
+- Spotify API를 사용한 개인 플레이리스트 데이터 불러오기
